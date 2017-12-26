@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApiTest", "FirstApiTest\FirstApiTest.csproj", "{DFD2D8FF-E6D5-496C-B479-9A0C6BC1B587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD2D8FF-E6D5-496C-B479-9A0C6BC1B587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD2D8FF-E6D5-496C-B479-9A0C6BC1B587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD2D8FF-E6D5-496C-B479-9A0C6BC1B587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD2D8FF-E6D5-496C-B479-9A0C6BC1B587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
