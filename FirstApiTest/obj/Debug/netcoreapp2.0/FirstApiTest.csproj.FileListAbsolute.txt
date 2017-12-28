@@ -1,0 +1,11 @@
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/bin/Debug/netcoreapp2.0/FirstApiTest.deps.json
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/bin/Debug/netcoreapp2.0/FirstApiTest.runtimeconfig.json
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/bin/Debug/netcoreapp2.0/FirstApiTest.runtimeconfig.dev.json
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/bin/Debug/netcoreapp2.0/FirstApiTest.dll
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/bin/Debug/netcoreapp2.0/FirstApiTest.pdb
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/obj/Debug/netcoreapp2.0/FirstApiTest.csprojResolveAssemblyReference.cache
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/obj/Debug/netcoreapp2.0/FirstApiTest.csproj.CoreCompileInputs.cache
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/obj/Debug/netcoreapp2.0/FirstApiTest.AssemblyInfoInputs.cache
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/obj/Debug/netcoreapp2.0/FirstApiTest.AssemblyInfo.cs
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/obj/Debug/netcoreapp2.0/FirstApiTest.dll
+/Users/iospapiroom/Desktop/Projects/FirstApiTest/FirstApiTest/obj/Debug/netcoreapp2.0/FirstApiTest.pdb
