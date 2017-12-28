@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{DFD2D8FF-E6D5-496C-B479-9A0C6BC1B587}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstApiTest Status">
+    <Files>
+      <File FileName="FirstApiTest/Controllers/ValuesController.cs" Line="9" Column="35" />
+      <File FileName="FirstApiTest Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.FirstApiTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
